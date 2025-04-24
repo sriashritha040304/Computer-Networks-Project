@@ -1,4 +1,3 @@
-@'
 📘 README: Computer Networks P2P File Sharing Project
 
 🧠 PROJECT DESCRIPTION
